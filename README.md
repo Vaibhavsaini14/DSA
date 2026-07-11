@@ -27,6 +27,7 @@
 ## Array
 |  |
 | ------- |
+| [0260-single-number-iii](https://github.com/Vaibhavsaini14/DSA/tree/master/0260-single-number-iii) |
 | [0904-fruit-into-baskets](https://github.com/Vaibhavsaini14/DSA/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Vaibhavsaini14/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vaibhavsaini14/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -55,4 +56,8 @@
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Vaibhavsaini14/DSA/tree/master/1004-max-consecutive-ones-iii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0260-single-number-iii](https://github.com/Vaibhavsaini14/DSA/tree/master/0260-single-number-iii) |
 <!---LeetCode Topics End-->
