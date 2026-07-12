@@ -13,6 +13,7 @@
 | [0155-min-stack](https://github.com/Vaibhavsaini14/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Vaibhavsaini14/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Vaibhavsaini14/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/Vaibhavsaini14/DSA/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | ------- |
 | [0137-single-number-ii](https://github.com/Vaibhavsaini14/DSA/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Vaibhavsaini14/DSA/tree/master/0260-single-number-iii) |
+| [0496-next-greater-element-i](https://github.com/Vaibhavsaini14/DSA/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/Vaibhavsaini14/DSA/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Vaibhavsaini14/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vaibhavsaini14/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -36,6 +38,7 @@
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Vaibhavsaini14/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/Vaibhavsaini14/DSA/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/Vaibhavsaini14/DSA/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Vaibhavsaini14/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 ## Sliding Window
@@ -62,4 +65,8 @@
 | ------- |
 | [0137-single-number-ii](https://github.com/Vaibhavsaini14/DSA/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Vaibhavsaini14/DSA/tree/master/0260-single-number-iii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Vaibhavsaini14/DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
