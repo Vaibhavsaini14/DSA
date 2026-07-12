@@ -11,13 +11,11 @@ public:
                 l++;
             }
             else {
-                if(height[r] >= rmax)
-                    rmax = height[r];
+                if(height[r] >= rmax) rmax = height[r];
                 else water += rmax - height[r];
                 r--;
             }
         }
-
         return water;
     }
 };
