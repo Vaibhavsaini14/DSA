@@ -16,12 +16,14 @@
 | [0232-implement-queue-using-stacks](https://github.com/Vaibhavsaini14/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Vaibhavsaini14/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Vaibhavsaini14/DSA/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/Vaibhavsaini14/DSA/tree/master/0901-online-stock-span) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Vaibhavsaini14/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Vaibhavsaini14/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Vaibhavsaini14/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0901-online-stock-span](https://github.com/Vaibhavsaini14/DSA/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -75,6 +77,7 @@
 | [0042-trapping-rain-water](https://github.com/Vaibhavsaini14/DSA/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Vaibhavsaini14/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Vaibhavsaini14/DSA/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/Vaibhavsaini14/DSA/tree/master/0901-online-stock-span) |
 ## Two Pointers
 |  |
 | ------- |
@@ -83,4 +86,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Vaibhavsaini14/DSA/tree/master/0042-trapping-rain-water) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Vaibhavsaini14/DSA/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
