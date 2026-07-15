@@ -61,6 +61,7 @@
 | [0946-validate-stack-sequences](https://github.com/Vaibhavsaini14/DSA/tree/master/0946-validate-stack-sequences) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Vaibhavsaini14/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vaibhavsaini14/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1207-unique-number-of-occurrences](https://github.com/Vaibhavsaini14/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Vaibhavsaini14/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Vaibhavsaini14/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Hash Table
@@ -70,6 +71,7 @@
 | [0496-next-greater-element-i](https://github.com/Vaibhavsaini14/DSA/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/Vaibhavsaini14/DSA/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Vaibhavsaini14/DSA/tree/master/0992-subarrays-with-k-different-integers) |
+| [1207-unique-number-of-occurrences](https://github.com/Vaibhavsaini14/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Vaibhavsaini14/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Sliding Window
 |  |
