@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vaibhavsaini14/DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Vaibhavsaini14/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vaibhavsaini14/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vaibhavsaini14/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vaibhavsaini14/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -15,6 +16,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vaibhavsaini14/DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Vaibhavsaini14/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Vaibhavsaini14/DSA/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vaibhavsaini14/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Vaibhavsaini14/DSA/tree/master/0155-min-stack) |
@@ -115,6 +117,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Vaibhavsaini14/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Vaibhavsaini14/DSA/tree/master/0042-trapping-rain-water) |
 | [0907-sum-of-subarray-minimums](https://github.com/Vaibhavsaini14/DSA/tree/master/0907-sum-of-subarray-minimums) |
 ## Data Stream
