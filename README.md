@@ -34,6 +34,7 @@
 | [1106-parsing-a-boolean-expression](https://github.com/Vaibhavsaini14/DSA/tree/master/1106-parsing-a-boolean-expression) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Vaibhavsaini14/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vaibhavsaini14/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2104-sum-of-subarray-ranges](https://github.com/Vaibhavsaini14/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2390-removing-stars-from-a-string](https://github.com/Vaibhavsaini14/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Design
 |  |
@@ -65,6 +66,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Vaibhavsaini14/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/Vaibhavsaini14/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Vaibhavsaini14/DSA/tree/master/1441-build-an-array-with-stack-operations) |
+| [2104-sum-of-subarray-ranges](https://github.com/Vaibhavsaini14/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Vaibhavsaini14/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Hash Table
 |  |
@@ -109,6 +111,7 @@
 | [0739-daily-temperatures](https://github.com/Vaibhavsaini14/DSA/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Vaibhavsaini14/DSA/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Vaibhavsaini14/DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/Vaibhavsaini14/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Two Pointers
 |  |
 | ------- |
