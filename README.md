@@ -95,6 +95,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Vaibhavsaini14/DSA/tree/master/0069-sqrtx) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vaibhavsaini14/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
@@ -142,6 +143,7 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Vaibhavsaini14/DSA/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vaibhavsaini14/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vaibhavsaini14/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Greedy
