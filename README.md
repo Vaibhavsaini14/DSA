@@ -7,6 +7,7 @@
 | [0020-valid-parentheses](https://github.com/Vaibhavsaini14/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Vaibhavsaini14/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/Vaibhavsaini14/DSA/tree/master/0402-remove-k-digits) |
+| [0412-fizz-buzz](https://github.com/Vaibhavsaini14/DSA/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vaibhavsaini14/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vaibhavsaini14/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vaibhavsaini14/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -138,6 +139,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Vaibhavsaini14/DSA/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Vaibhavsaini14/DSA/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/Vaibhavsaini14/DSA/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/Vaibhavsaini14/DSA/tree/master/0946-validate-stack-sequences) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Vaibhavsaini14/DSA/tree/master/1441-build-an-array-with-stack-operations) |
@@ -149,6 +151,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vaibhavsaini14/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0258-add-digits](https://github.com/Vaibhavsaini14/DSA/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/Vaibhavsaini14/DSA/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/Vaibhavsaini14/DSA/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Vaibhavsaini14/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Vaibhavsaini14/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vaibhavsaini14/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
