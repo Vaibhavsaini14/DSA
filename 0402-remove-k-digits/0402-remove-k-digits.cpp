@@ -19,7 +19,6 @@ public:
             res += st.top();
             st.pop();
         }
-        
         while(res.size()!= 0 && res.back() == '0'){
             res.pop_back();   
         }
