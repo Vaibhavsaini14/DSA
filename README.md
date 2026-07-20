@@ -64,6 +64,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Vaibhavsaini14/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Vaibhavsaini14/DSA/tree/master/0216-combination-sum-iii) |
 | [0260-single-number-iii](https://github.com/Vaibhavsaini14/DSA/tree/master/0260-single-number-iii) |
+| [0410-split-array-largest-sum](https://github.com/Vaibhavsaini14/DSA/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/Vaibhavsaini14/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Vaibhavsaini14/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Vaibhavsaini14/DSA/tree/master/0735-asteroid-collision) |
@@ -105,10 +106,12 @@
 | ------- |
 | [0069-sqrtx](https://github.com/Vaibhavsaini14/DSA/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Vaibhavsaini14/DSA/tree/master/0367-valid-perfect-square) |
+| [0410-split-array-largest-sum](https://github.com/Vaibhavsaini14/DSA/tree/master/0410-split-array-largest-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vaibhavsaini14/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Vaibhavsaini14/DSA/tree/master/0410-split-array-largest-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vaibhavsaini14/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
@@ -139,6 +142,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Vaibhavsaini14/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Vaibhavsaini14/DSA/tree/master/0042-trapping-rain-water) |
+| [0410-split-array-largest-sum](https://github.com/Vaibhavsaini14/DSA/tree/master/0410-split-array-largest-sum) |
 | [0907-sum-of-subarray-minimums](https://github.com/Vaibhavsaini14/DSA/tree/master/0907-sum-of-subarray-minimums) |
 ## Data Stream
 |  |
@@ -172,6 +176,7 @@
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Vaibhavsaini14/DSA/tree/master/0402-remove-k-digits) |
+| [0410-split-array-largest-sum](https://github.com/Vaibhavsaini14/DSA/tree/master/0410-split-array-largest-sum) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vaibhavsaini14/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vaibhavsaini14/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vaibhavsaini14/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
