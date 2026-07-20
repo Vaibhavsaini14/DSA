@@ -177,6 +177,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Vaibhavsaini14/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [1106-parsing-a-boolean-expression](https://github.com/Vaibhavsaini14/DSA/tree/master/1106-parsing-a-boolean-expression) |
 ## Number Theory
 |  |
@@ -212,4 +213,8 @@
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Vaibhavsaini14/DSA/tree/master/1260-shift-2d-grid) |
+## Linked List
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Vaibhavsaini14/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
