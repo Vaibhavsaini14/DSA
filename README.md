@@ -6,6 +6,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vaibhavsaini14/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Vaibhavsaini14/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0392-is-subsequence](https://github.com/Vaibhavsaini14/DSA/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/Vaibhavsaini14/DSA/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/Vaibhavsaini14/DSA/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vaibhavsaini14/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -140,12 +141,14 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Vaibhavsaini14/DSA/tree/master/0042-trapping-rain-water) |
+| [0392-is-subsequence](https://github.com/Vaibhavsaini14/DSA/tree/master/0392-is-subsequence) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vaibhavsaini14/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Vaibhavsaini14/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Vaibhavsaini14/DSA/tree/master/0042-trapping-rain-water) |
+| [0392-is-subsequence](https://github.com/Vaibhavsaini14/DSA/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Vaibhavsaini14/DSA/tree/master/0410-split-array-largest-sum) |
 | [0907-sum-of-subarray-minimums](https://github.com/Vaibhavsaini14/DSA/tree/master/0907-sum-of-subarray-minimums) |
 ## Data Stream
