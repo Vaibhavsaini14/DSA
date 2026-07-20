@@ -56,6 +56,7 @@
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Vaibhavsaini14/DSA/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Vaibhavsaini14/DSA/tree/master/0042-trapping-rain-water) |
 | [0137-single-number-ii](https://github.com/Vaibhavsaini14/DSA/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vaibhavsaini14/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -197,4 +198,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vaibhavsaini14/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Vaibhavsaini14/DSA/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
