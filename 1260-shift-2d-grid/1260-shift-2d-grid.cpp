@@ -7,19 +7,17 @@ public:
         int n = row * col ;
         k = k % n;
         if(k==0) return grid;
-            auto reverse = [&](int i , int j) {
-                while( i < j){
-                    swap(grid[i/col][i%col] , grid[j/col][j%col]);
-                    i++;
-                    j--;
+        auto reverse = [&](int i , int j) {
+            while( i < j){
+                swap(grid[i/col][i%col] , grid[j/col][j%col]);
+                i++;
+                j--;
 
                 }
             };
-
-            reverse(0 , n- 1);
-            reverse(0 , k- 1);
-            reverse(k , n- 1);
-            return grid;
-
+        reverse(0 , n- 1);
+        reverse(0 , k- 1);
+        reverse(k , n- 1);
+        return grid;
     }
 };
