@@ -6,6 +6,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vaibhavsaini14/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Vaibhavsaini14/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/Vaibhavsaini14/DSA/tree/master/0058-length-of-last-word) |
 | [0392-is-subsequence](https://github.com/Vaibhavsaini14/DSA/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/Vaibhavsaini14/DSA/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/Vaibhavsaini14/DSA/tree/master/0412-fizz-buzz) |
