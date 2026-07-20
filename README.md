@@ -157,6 +157,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Vaibhavsaini14/DSA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Vaibhavsaini14/DSA/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vaibhavsaini14/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0258-add-digits](https://github.com/Vaibhavsaini14/DSA/tree/master/0258-add-digits) |
@@ -178,6 +179,7 @@
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Vaibhavsaini14/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/Vaibhavsaini14/DSA/tree/master/0050-powx-n) |
 | [1106-parsing-a-boolean-expression](https://github.com/Vaibhavsaini14/DSA/tree/master/1106-parsing-a-boolean-expression) |
 ## Number Theory
 |  |
