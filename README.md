@@ -108,6 +108,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Vaibhavsaini14/DSA/tree/master/0069-sqrtx) |
+| [0278-first-bad-version](https://github.com/Vaibhavsaini14/DSA/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/Vaibhavsaini14/DSA/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Vaibhavsaini14/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/Vaibhavsaini14/DSA/tree/master/0410-split-array-largest-sum) |
@@ -234,5 +235,6 @@
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/Vaibhavsaini14/DSA/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Vaibhavsaini14/DSA/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
