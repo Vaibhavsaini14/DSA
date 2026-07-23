@@ -130,6 +130,7 @@
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/Vaibhavsaini14/DSA/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/Vaibhavsaini14/DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Vaibhavsaini14/DSA/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/Vaibhavsaini14/DSA/tree/master/0260-single-number-iii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Vaibhavsaini14/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -219,6 +220,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Vaibhavsaini14/DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Vaibhavsaini14/DSA/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vaibhavsaini14/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
