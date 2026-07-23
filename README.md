@@ -89,6 +89,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vaibhavsaini14/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Vaibhavsaini14/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Vaibhavsaini14/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Vaibhavsaini14/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -134,6 +135,7 @@
 | [0191-number-of-1-bits](https://github.com/Vaibhavsaini14/DSA/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/Vaibhavsaini14/DSA/tree/master/0260-single-number-iii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Vaibhavsaini14/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Vaibhavsaini14/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -190,6 +192,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Vaibhavsaini14/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Vaibhavsaini14/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vaibhavsaini14/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Vaibhavsaini14/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vaibhavsaini14/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Greedy
 |  |
