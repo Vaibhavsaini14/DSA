@@ -8,6 +8,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vaibhavsaini14/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Vaibhavsaini14/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Vaibhavsaini14/DSA/tree/master/0058-length-of-last-word) |
+| [0171-excel-sheet-column-number](https://github.com/Vaibhavsaini14/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0392-is-subsequence](https://github.com/Vaibhavsaini14/DSA/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/Vaibhavsaini14/DSA/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/Vaibhavsaini14/DSA/tree/master/0412-fizz-buzz) |
@@ -196,6 +197,7 @@
 | [0050-powx-n](https://github.com/Vaibhavsaini14/DSA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Vaibhavsaini14/DSA/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vaibhavsaini14/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0171-excel-sheet-column-number](https://github.com/Vaibhavsaini14/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/Vaibhavsaini14/DSA/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/Vaibhavsaini14/DSA/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Vaibhavsaini14/DSA/tree/master/0412-fizz-buzz) |
