@@ -23,6 +23,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/Vaibhavsaini14/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Vaibhavsaini14/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2390-removing-stars-from-a-string](https://github.com/Vaibhavsaini14/DSA/tree/master/2390-removing-stars-from-a-string) |
+| [3110-score-of-a-string](https://github.com/Vaibhavsaini14/DSA/tree/master/3110-score-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Vaibhavsaini14/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Stack
 |  |
