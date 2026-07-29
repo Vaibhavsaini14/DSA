@@ -100,6 +100,7 @@
 | [2104-sum-of-subarray-ranges](https://github.com/Vaibhavsaini14/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Vaibhavsaini14/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Vaibhavsaini14/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/Vaibhavsaini14/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Vaibhavsaini14/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Vaibhavsaini14/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3668-restore-finishing-order](https://github.com/Vaibhavsaini14/DSA/tree/master/3668-restore-finishing-order) |
@@ -153,6 +154,7 @@
 | [0191-number-of-1-bits](https://github.com/Vaibhavsaini14/DSA/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/Vaibhavsaini14/DSA/tree/master/0260-single-number-iii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Vaibhavsaini14/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/Vaibhavsaini14/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Vaibhavsaini14/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Monotonic Stack
 |  |
