@@ -25,6 +25,7 @@
 | [2390-removing-stars-from-a-string](https://github.com/Vaibhavsaini14/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [3110-score-of-a-string](https://github.com/Vaibhavsaini14/DSA/tree/master/3110-score-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Vaibhavsaini14/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Vaibhavsaini14/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Stack
 |  |
 | ------- |
@@ -114,6 +115,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/Vaibhavsaini14/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Vaibhavsaini14/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3668-restore-finishing-order](https://github.com/Vaibhavsaini14/DSA/tree/master/3668-restore-finishing-order) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Vaibhavsaini14/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Sliding Window
 |  |
 | ------- |
