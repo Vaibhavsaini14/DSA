@@ -25,6 +25,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Vaibhavsaini14/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2390-removing-stars-from-a-string](https://github.com/Vaibhavsaini14/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vaibhavsaini14/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vaibhavsaini14/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3110-score-of-a-string](https://github.com/Vaibhavsaini14/DSA/tree/master/3110-score-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Vaibhavsaini14/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Vaibhavsaini14/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -117,6 +118,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/Vaibhavsaini14/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1207-unique-number-of-occurrences](https://github.com/Vaibhavsaini14/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Vaibhavsaini14/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vaibhavsaini14/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3668-restore-finishing-order](https://github.com/Vaibhavsaini14/DSA/tree/master/3668-restore-finishing-order) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Vaibhavsaini14/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Sliding Window
@@ -131,6 +133,7 @@
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/Vaibhavsaini14/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Vaibhavsaini14/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vaibhavsaini14/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -233,6 +236,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vaibhavsaini14/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vaibhavsaini14/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vaibhavsaini14/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vaibhavsaini14/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -254,6 +258,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Vaibhavsaini14/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vaibhavsaini14/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Vaibhavsaini14/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vaibhavsaini14/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Vaibhavsaini14/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Vaibhavsaini14/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Divide and Conquer
