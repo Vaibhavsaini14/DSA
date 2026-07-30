@@ -20,6 +20,7 @@
 | [1106-parsing-a-boolean-expression](https://github.com/Vaibhavsaini14/DSA/tree/master/1106-parsing-a-boolean-expression) |
 | [1108-defanging-an-ip-address](https://github.com/Vaibhavsaini14/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1446-consecutive-characters](https://github.com/Vaibhavsaini14/DSA/tree/master/1446-consecutive-characters) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Vaibhavsaini14/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vaibhavsaini14/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/Vaibhavsaini14/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Vaibhavsaini14/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -234,6 +235,7 @@
 | [0410-split-array-largest-sum](https://github.com/Vaibhavsaini14/DSA/tree/master/0410-split-array-largest-sum) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vaibhavsaini14/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vaibhavsaini14/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Vaibhavsaini14/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vaibhavsaini14/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vaibhavsaini14/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vaibhavsaini14/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
