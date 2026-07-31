@@ -1,6 +1,7 @@
 class Solution {
 public:
     int minimumPushes(string word) {
+        // By storing in map
         vector<int> map(26 , 0);
         for(char &ch : word){
             map[ch - 'a']++;
