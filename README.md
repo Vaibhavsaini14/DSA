@@ -24,6 +24,7 @@
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Vaibhavsaini14/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/Vaibhavsaini14/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Vaibhavsaini14/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Vaibhavsaini14/DSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2390-removing-stars-from-a-string](https://github.com/Vaibhavsaini14/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vaibhavsaini14/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vaibhavsaini14/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -103,6 +104,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vaibhavsaini14/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Vaibhavsaini14/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Vaibhavsaini14/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Vaibhavsaini14/DSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Vaibhavsaini14/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Vaibhavsaini14/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Vaibhavsaini14/DSA/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
@@ -225,6 +227,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Vaibhavsaini14/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Vaibhavsaini14/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vaibhavsaini14/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Vaibhavsaini14/DSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vaibhavsaini14/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Vaibhavsaini14/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Vaibhavsaini14/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -290,6 +293,7 @@
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Vaibhavsaini14/DSA/tree/master/1260-shift-2d-grid) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/Vaibhavsaini14/DSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Vaibhavsaini14/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Linked List
 |  |
