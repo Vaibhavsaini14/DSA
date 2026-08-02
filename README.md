@@ -108,6 +108,7 @@
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Vaibhavsaini14/DSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Vaibhavsaini14/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Vaibhavsaini14/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Vaibhavsaini14/DSA/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Vaibhavsaini14/DSA/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Vaibhavsaini14/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Vaibhavsaini14/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -214,6 +215,7 @@
 | [1389-create-target-array-in-the-given-order](https://github.com/Vaibhavsaini14/DSA/tree/master/1389-create-target-array-in-the-given-order) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Vaibhavsaini14/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/Vaibhavsaini14/DSA/tree/master/2390-removing-stars-from-a-string) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Vaibhavsaini14/DSA/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 ## Math
 |  |
 | ------- |
@@ -297,6 +299,7 @@
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Vaibhavsaini14/DSA/tree/master/1260-shift-2d-grid) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Vaibhavsaini14/DSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Vaibhavsaini14/DSA/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Vaibhavsaini14/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Linked List
 |  |
