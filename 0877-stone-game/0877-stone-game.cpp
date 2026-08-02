@@ -17,4 +17,9 @@ public:
         return Al_score > sum / 2;
 
     }
+
+    // Constant time approach O(1) ---> return true
+    // As Alice always wins have known sum of both odd and even indices
+
+
 };
