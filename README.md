@@ -91,6 +91,7 @@
 | [0739-daily-temperatures](https://github.com/Vaibhavsaini14/DSA/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Vaibhavsaini14/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vaibhavsaini14/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0877-stone-game](https://github.com/Vaibhavsaini14/DSA/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Vaibhavsaini14/DSA/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Vaibhavsaini14/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0946-validate-stack-sequences](https://github.com/Vaibhavsaini14/DSA/tree/master/0946-validate-stack-sequences) |
@@ -196,6 +197,7 @@
 | [0042-trapping-rain-water](https://github.com/Vaibhavsaini14/DSA/tree/master/0042-trapping-rain-water) |
 | [0392-is-subsequence](https://github.com/Vaibhavsaini14/DSA/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Vaibhavsaini14/DSA/tree/master/0410-split-array-largest-sum) |
+| [0877-stone-game](https://github.com/Vaibhavsaini14/DSA/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Vaibhavsaini14/DSA/tree/master/0907-sum-of-subarray-minimums) |
 ## Data Stream
 |  |
@@ -223,6 +225,7 @@
 | [0367-valid-perfect-square](https://github.com/Vaibhavsaini14/DSA/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Vaibhavsaini14/DSA/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vaibhavsaini14/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Vaibhavsaini14/DSA/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Vaibhavsaini14/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Vaibhavsaini14/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Vaibhavsaini14/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -317,4 +320,8 @@
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Vaibhavsaini14/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Vaibhavsaini14/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
