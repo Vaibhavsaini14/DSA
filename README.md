@@ -244,6 +244,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vaibhavsaini14/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Vaibhavsaini14/DSA/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vaibhavsaini14/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Vaibhavsaini14/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Vaibhavsaini14/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Vaibhavsaini14/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Vaibhavsaini14/DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -398,4 +399,8 @@
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Vaibhavsaini14/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Vaibhavsaini14/DSA/tree/master/0543-diameter-of-binary-tree) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Vaibhavsaini14/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
